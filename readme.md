@@ -35,7 +35,7 @@ None
 
 ## Preview
 
-![Main Menu](./readmepreview/preview.jpg)
+![Preview](./readmepreview/preview.jpg)
 
 ## Question
 
